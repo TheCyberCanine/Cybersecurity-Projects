@@ -9,4 +9,4 @@ This repository serves as a platform to showcase my projects, scripts, and contr
 Through collaboration and continuous learning, I aspire to develop practical skills, leverage cutting-edge technologies, and gain hands-on experience in securing systems, networks, and applications. Together, let's unravel the intricacies of cybersecurity, share knowledge, and contribute to building a safer digital ecosystem.
 
 
-
+[SQL PDF](Apply-filters-to-SQL-queries Complete.pdf)
