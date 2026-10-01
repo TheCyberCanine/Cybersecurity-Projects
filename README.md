@@ -7,6 +7,3 @@ With a passion for protecting digital assets and ensuring the confidentiality, i
 This repository serves as a platform to showcase my projects, scripts, and contributions in the realm of cybersecurity. From penetration testing and vulnerability assessment to network security and incident response, I aim to explore diverse facets of this dynamic field.
 
 Through collaboration and continuous learning, I aspire to develop practical skills, leverage cutting-edge technologies, and gain hands-on experience in securing systems, networks, and applications. Together, let's unravel the intricacies of cybersecurity, share knowledge, and contribute to building a safer digital ecosystem.
-
-
-[SQL PDF](Apply-filters-to-SQL-queries Complete.pdf)
